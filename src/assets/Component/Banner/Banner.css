@@ -1,0 +1,9 @@
+.bg_img{
+
+    background-image: url(../../../../public/Food.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size:cover;
+    /* height: 300px; */
+    
+}
